@@ -1,3 +1,4 @@
+output.log
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -100,7 +101,9 @@ celerybeat-schedule
 # Environments
 .env
 .venv
+.idea
 env/
+.idea/
 venv/
 ENV/
 env.bak/
